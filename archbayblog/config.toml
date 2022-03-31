@@ -1,0 +1,4 @@
+baseURL = "https://archbay.github.io/"
+languageCode = "en-us"
+title = "Computing Architecture Bay"
+theme="Mainroad"

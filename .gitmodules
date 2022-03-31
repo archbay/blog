@@ -1,0 +1,7 @@
+[submodule "archbayblog/public"]
+	path = archbayblog/public
+	url = git@github.com:npatel-ctrl/archbay.github.io.git
+	branch = main
+[submodule "archbayblog/themes/Mainroad"]
+	path = archbayblog/themes/Mainroad
+	url = https://github.com/Vimux/Mainroad.git
